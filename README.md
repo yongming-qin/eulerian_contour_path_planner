@@ -1,6 +1,10 @@
 # Eulerian Contour Path Planner
 
-This planner generates a path that covers the object contours of a given area, which focuses on the particular objects and can be used for inspection, change monitoring, etc..
+This planner generates a path that covers the object contours of a given area, which focuses on the particular objects and can be used for inspection, change monitoring, etc.
+
+
+The repositories of both Travelling Salesperson Problems and Eulerain cuicuits are being combined to this repository. (ongoing, 2023.01.10)
+
 
 ## Overview
 
